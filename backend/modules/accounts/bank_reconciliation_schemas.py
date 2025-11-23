@@ -71,3 +71,7 @@ class MatchingVoucher(BaseModel):
     reference_date: Optional[date] = None
     match_score: float  # 0-100, higher is better match
 
+
+
+
+

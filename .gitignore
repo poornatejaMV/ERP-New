@@ -60,7 +60,7 @@ build/
 Thumbs.db
 
 # Docker
-.dockerignore
+# .dockerignore
 
 # Temporary files
 *.tmp
@@ -84,4 +84,8 @@ backend/venv/
 backend/__pycache__/
 backend/*.db
 backend/*.log
+
+
+
+
 

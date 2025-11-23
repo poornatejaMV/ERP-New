@@ -129,3 +129,7 @@ docker-compose exec backend python create_demo_data.py
 
 All services are running, accessible, and ready for use. The application can be deployed using Docker Compose without any issues.
 
+
+
+
+

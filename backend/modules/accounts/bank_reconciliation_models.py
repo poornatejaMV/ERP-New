@@ -54,3 +54,7 @@ class BankReconciliation(Base):
     bank_statement = relationship("BankStatement", back_populates="reconciliations")
     transaction = relationship("BankStatementTransaction", back_populates="reconciliations")
 
+
+
+
+

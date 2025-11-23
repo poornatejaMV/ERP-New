@@ -41,3 +41,7 @@ echo "   Password: admin123"
 echo ""
 echo "To stop the system, run: docker-compose down"
 
+
+
+
+

@@ -66,3 +66,7 @@ class PurchaseTaxTemplate(PurchaseTaxTemplateBase):
     class Config:
         from_attributes = True
 
+
+
+
+

@@ -45,3 +45,7 @@ class PurchaseTaxTemplateDetail(Base):
     template = relationship("PurchaseTaxTemplate", back_populates="taxes")
     account = relationship("modules.accounts.models.Account")
 
+
+
+
+
